@@ -353,7 +353,7 @@ header .nav2 ul li{
 .events .card-body p, .card-footer p{
     color: #8b8b8b;
 }
-.events a{
+.events .btn a{
     text-decoration: none;
     color: #fff;
     font-family: bruumLightFont;
